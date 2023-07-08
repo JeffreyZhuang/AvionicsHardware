@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FlightComputerLibrary")(type "KiCad")(uri "${KIPRJMOD}/FlightComputerLibrary.pretty")(options "")(descr ""))
+)
