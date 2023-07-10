@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\jeffr\\OneDrive\\Documents\\FlightComputer\\FlightComputer.kicad_sch")
-    (date "2023-07-08 8:43:08 PM")
+    (date "2023-07-09 5:55:19 PM")
     (tool "Eeschema 7.0.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -955,7 +955,7 @@
       (property (name "ki_keywords") (value "cap capacitor"))
       (sheetpath (names "/Sensors/") (tstamps "/14b26996-81b8-4501-80f0-d5b7670415f0/"))
       (tstamps "58aee1af-5343-4135-9656-bd8d008aff5d"))
-    (comp (ref "D32")
+    (comp (ref "D5")
       (value "PESD5V0U1UA")
       (footprint "Diode_SMD:D_SOD-323")
       (fields
@@ -2227,9 +2227,9 @@
       (node (ref "C8") (pin "2") (pintype "passive"))
       (node (ref "C9") (pin "2") (pintype "passive"))
       (node (ref "D3") (pin "2") (pinfunction "A") (pintype "passive"))
-      (node (ref "D32") (pin "2") (pinfunction "A") (pintype "passive"))
       (node (ref "D36") (pin "2") (pinfunction "A") (pintype "passive"))
       (node (ref "D4") (pin "2") (pinfunction "A") (pintype "passive"))
+      (node (ref "D5") (pin "2") (pinfunction "A") (pintype "passive"))
       (node (ref "IC1") (pin "1") (pinfunction "PGND") (pintype "passive"))
       (node (ref "IC1") (pin "9") (pinfunction "AGND") (pintype "passive"))
       (node (ref "J1") (pin "3") (pinfunction "Pin_3") (pintype "passive"))
@@ -2366,7 +2366,7 @@
       (node (ref "U4") (pin "7") (pinfunction "NRST") (pintype "input")))
     (net (code "26") (name "Net-(AE1-A)")
       (node (ref "AE1") (pin "1") (pinfunction "A") (pintype "input"))
-      (node (ref "D32") (pin "1") (pinfunction "K") (pintype "passive"))
+      (node (ref "D5") (pin "1") (pinfunction "K") (pintype "passive"))
       (node (ref "L3") (pin "1") (pinfunction "1") (pintype "passive"))
       (node (ref "U6") (pin "11") (pinfunction "RF_IN") (pintype "input")))
     (net (code "27") (name "Net-(C18-Pad1)")
