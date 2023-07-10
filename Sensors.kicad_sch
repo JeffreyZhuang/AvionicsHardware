@@ -2215,7 +2215,7 @@
     (property "Reference" "D13" (at 191.135 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "PESD5V0U1UA" (at 189.865 85.09 0)
+    (property "Value" "TPESD5V0U1UA" (at 189.865 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Diode_SMD:D_SOD-323" (at 191.135 87.63 0)
