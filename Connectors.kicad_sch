@@ -1851,7 +1851,7 @@
     (fill (type none))
     (uuid 99e2a72a-82e8-45bc-bbe2-934b009d7850)
   )
-  (rectangle (start 145.415 229.87) (end 224.155 271.78)
+  (rectangle (start 145.415 229.87) (end 220.98 271.78)
     (stroke (width 0) (type dash))
     (fill (type none))
     (uuid 9f361eff-0c8e-42b1-a947-c7fedb77b918)

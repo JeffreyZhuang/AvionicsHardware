@@ -43,11 +43,6 @@
     (uuid 2406e4fa-bf88-4950-a756-96a401b72c73)
   )
 
-  (text "supply 3.3v using https://www.digikey.ca/en/products/detail/traco-power/TSR-1-2433E/12171286\nincrease 5V fuse to support camera?\n\nremove ldo, put 5v connector in place of ldo, move pi connector and 5v connector up, then place new 3.3v reg above voltage dividers"
-    (at 26.035 24.765 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 6cd7d327-555a-41d2-a2aa-d885dd5d617d)
-  )
   (text "Four-layer stackup (front to back): SIG, GND, 3V3, SIG"
     (at 38.1 45.085 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
