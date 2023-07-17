@@ -1283,6 +1283,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 84e11ad0-9902-45db-a771-f06602929189)
   )
+  (text "uart has global interrupt. no need for interrupts for uarts"
+    (at 203.835 42.545 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 9ac2f420-4f8c-4040-adc8-45afc2a2433c)
+  )
   (text "Pin 8" (at 43.815 69.215 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9e2cd56c-e1fd-4420-a5e7-ec3b95c1ea5b)

@@ -1915,10 +1915,6 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 6a2257a7-00eb-4ae1-bd21-7d333384284a)
   )
-  (text "0.1uf caps on power inputs" (at 99.695 26.035 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 6c91158e-6515-4594-b593-39ba9e9f9137)
-  )
   (text "Payload/Raspberry Pi 4 Connector\n" (at 106.045 222.25 0)
     (effects (font (size 3 3)) (justify right bottom))
     (uuid 991a0182-902b-4956-9534-fdc8ef006210)
@@ -2679,7 +2675,7 @@
   (symbol (lib_id "Device:D") (at 171.45 250.19 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1c2b31b0-6274-48ba-9836-2604a1543ed3)
-    (property "Reference" "D36" (at 173.99 251.46 90)
+    (property "Reference" "D8" (at 173.99 251.46 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TPESD5V0U1UA" (at 173.99 248.92 90)
@@ -2702,7 +2698,7 @@
     (instances
       (project "FlightComputer"
         (path "/619b7a98-ea9e-4ba1-a6ac-2aefa32bb41a/234b6c4f-327d-42b9-b59c-801877bb3b05"
-          (reference "D36") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
