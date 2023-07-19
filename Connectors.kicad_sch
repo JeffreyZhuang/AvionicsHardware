@@ -1881,8 +1881,8 @@
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid 18acc11e-f040-4702-92a9-e72b0143dda5)
   )
-  (text "The servos are powered through the ESC's switching regulator"
-    (at 281.305 124.46 0)
+  (text "The servos are powered through the ESC's switching regulator.\nThe ESC provides 5V 5.5A to the +5VA net through pin 1 on J10"
+    (at 281.305 125.095 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1d3e329b-b207-45c1-b3a6-e2f4b78da720)
   )
@@ -1915,7 +1915,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 6a2257a7-00eb-4ae1-bd21-7d333384284a)
   )
-  (text "Payload/Raspberry Pi 4 Connector\n" (at 106.045 222.25 0)
+  (text "Raspberry Pi 4 Connector\n" (at 85.09 222.25 0)
     (effects (font (size 3 3)) (justify right bottom))
     (uuid 991a0182-902b-4956-9534-fdc8ef006210)
   )
