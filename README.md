@@ -7,3 +7,4 @@ Changes I would make on next revision:
 - More jumpers, for example on the M9N to select active or passive antenna
 - Larger inductor pads or different inductor to make it easier to solder
 - Larger crystal pads for handsoldering (but idk if handsoldering crystal is possible)
+- Add a power pin on SWD interface for STlink level shifter
