@@ -9,3 +9,4 @@ Changes I would make on next revision:
 - Larger crystal pads for handsoldering (but idk if handsoldering crystal is possible)
 - Add a power pin on SWD interface for STlink level shifter
 - 0 ohm resistors in case I want to add series resistors or inductors or filtering capacitors later
+- Ground pour on all layers
