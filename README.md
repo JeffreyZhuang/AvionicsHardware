@@ -11,3 +11,4 @@ Changes I would make on next revision:
 - 0 ohm resistors in case I want to add series resistors or inductors or filtering capacitors later
 - Ground pour on all layers
 - Use 5v SMPS instead of 5.1v for consistency
+- Use handsoldering version of components
