@@ -12,3 +12,4 @@ Changes I would make on next revision:
 - Ground pour on all layers
 - Use 5v SMPS instead of 5.1v for consistency
 - Use handsoldering version of components
+- No SOD-323
