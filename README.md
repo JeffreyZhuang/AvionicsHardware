@@ -13,3 +13,4 @@ Changes I would make on next revision:
 - Use 5v SMPS instead of 5.1v for consistency
 - Use handsoldering version of components
 - No SOD-323
+- No terminal block
