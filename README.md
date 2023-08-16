@@ -14,3 +14,5 @@ Changes I would make on next revision:
 - Use handsoldering version of components
 - No SOD-323
 - No terminal block
+- Expose soldermask under switcher so you can solder with iron
+- Thermal reliefs
