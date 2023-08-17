@@ -16,3 +16,4 @@ Changes I would make on next revision:
 - No terminal block
 - Expose soldermask under switcher so you can solder with iron
 - Thermal reliefs
+- Series resistors for short circuit protection especially for the raspberry pi interrupt pin incase raspberry pi low and stm32 high causes short
