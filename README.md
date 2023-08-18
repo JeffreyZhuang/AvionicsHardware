@@ -19,3 +19,4 @@ Changes I would make on next revision:
 - Series resistors for short circuit protection especially for the raspberry pi interrupt pin incase raspberry pi low and stm32 high causes short
 - Testpoints on data lines to check for shorts
 - Testpoints for SWD for testing STM when connector has not been soldered yet
+- 0 ohm resistors after regulators incase i want to disconnect power
